@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clamarobcn
-- 👀 I’m interested in web development like vuex, universal angular, and laravel.
+- 👀 I’m interested in web development like react, flux, and laravel.
 - 🌱 I’m currently learning web3, blockchain and crypotocurrencies.
 - 💞️ I’m looking to collaborate on amazing web projects. 
 - 📫 How to reach me: just send me email.
